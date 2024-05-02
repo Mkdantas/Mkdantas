@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-I am a Frontend Developer with a strong background in React JS, JavaScript, Google tools, API, Node.js.
+I am a Frontend Developer with a strong background in React JS, JavaScript, Google tools(Analytics, Ads, Merchant Center and Tag Manager), API, Node.js.
 Proficient in developing automations to enhance project efficiency such as Google Cloud
 
 ---
