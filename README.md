@@ -1,16 +1,22 @@
-### Hi there 👋
+# 💻 Matheus Dantas
 
-<!--
-**Mkdantas/Mkdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Frontend Developer`**
 
-Here are some ideas to get you started:
+I am a Frontend Developer with a strong background in React JS, JavaScript, Google tools, API, Node.js.
+Proficient in developing automations to enhance project efficiency such as Google Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+          
+          
+          
+
+
