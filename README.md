@@ -15,6 +15,10 @@ Proficient in developing automations to enhance project efficiency such as Googl
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353800/google-ads.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303373/google-analytics-3-logo.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353827/google-tag-manager.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
 
 </br>    
 
